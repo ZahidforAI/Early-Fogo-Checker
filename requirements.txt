@@ -1,4 +1,4 @@
 streamlit==1.40.0
 solana==0.36.7
-solders>=0.21.0,<0.22.0
+solders==0.21.0
 requests==2.32.3
