@@ -1,3 +1,4 @@
 requests==2.32.3
 solana==0.36.7
+solders>=0.23,<0.27
 streamlit==1.46.1
